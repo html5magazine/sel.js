@@ -1,0 +1,11 @@
+TODO:
+javascript micro framework with small selector engine
+
+inspired by:
+- jquery (http://jquery.com)
+- zepto.js (https://github.com/madrobby/zepto)
+- nut.js (https://github.com/pyrsmk/nut)
+
+# License
+
+sel.js is licensed under the terms of the MIT License, see the included MIT-LICENSE file.
